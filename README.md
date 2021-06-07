@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @maplesyrupweb
+# Hi, I’m @maplesyrupweb
 - I’m interested in lifelong learning. I'm interesting in content management systems, learning management systems, and audio visual systems.  
 -  Specifically, I like: 
-    * WordPress, 
-    * Instructure 
-    * PHP, MySQL, JavaScript
+    * WordPress (CMS) 
+    * Instructure (LMS)
+    * PHP, MySQL, CSS, JavaScript
     * Extron and Crestron devices and equipment
     * Raspberry PI
 - 📫 Reach me at: maplesyrupweb@gmail.com
