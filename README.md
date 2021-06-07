@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @maplesyrupweb
-- 👀 I’m interested in lifelong learning. I'm interesting in content management systems and audio visual systems.
+- 👀 I’m interested in lifelong learning. I'm interesting in content management systems, learning management systems, and audio visual systems.
+-  Specifically, I like WordPress, Instructure, PHP, MySQL, JavaScript, Extron devices and Crestron devices
 - 📫 Reach me at: maplesyrupweb@gmail.com
 
 <!---
