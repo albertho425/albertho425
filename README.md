@@ -6,6 +6,7 @@
     * PHP, MySQL, CSS, JavaScript
     * Extron and Crestron audio visual devices
     * Raspberry PI
+- I'm also quite experienced with opeartaing and maintaining Laerdal and CAE patient simulators and task trainers
 - 📫 Reach me at: maplesyrupweb@gmail.com
 
 ***
