@@ -2,9 +2,9 @@
 - I’m interested in lifelong learning. I'm interesting in content management systems, learning management systems, and audio visual systems.  
 -  Specifically, I like: 
     * WordPress (CMS) 
-    * Instructure (LMS)
+    * Instructure, Blackboard, ATutor  (LMS)
     * PHP, MySQL, CSS, JavaScript
-    * Extron and Crestron devices and equipment
+    * Extron and Crestron audio visual devices
     * Raspberry PI
 - 📫 Reach me at: maplesyrupweb@gmail.com
 
