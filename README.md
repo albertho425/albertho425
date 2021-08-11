@@ -1,8 +1,8 @@
 # Hi, I’m @maplesyrupweb
 - I’m interested in lifelong learning. I'm interesting in content management systems, learning management systems, and audio visual systems.  
 -  Specifically, I like: 
+    * ATutor, Blackboard, Canvas, and Moodle  (LMS)
     * WordPress (CMS) 
-    * Instructure, Blackboard, ATutor  (LMS)
     * PHP, MySQL, CSS, JavaScript
     * Extron and Crestron audio visual devices
     * Raspberry PI
