@@ -1,10 +1,12 @@
 # Hi, I’m @maplesyrupweb
-- I’m interested in lifelong learning. I'm interesting in web development, LMS, CMS and audio visual systems.  
+- I'm a lifelong learner and student of most things in tech. I'm interesting in web programming, LMS/CMS, audiovisual systems, and automation systems.
 -  Specifically, I like: 
     * Canvas, Moodle and TalentLMS (LMS)
     * WordPress (CMS) 
     * PHP, MySQL, CSS, JavaScript
+    * Automation APIs, Apple shortcuts, Zapier.
     * Extron and Crestron audio visual devices and Raspberry PI
+
 
 - 📫 Reach me at: maplesyrupweb@gmail.com
 
