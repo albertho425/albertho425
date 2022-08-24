@@ -1,12 +1,12 @@
 # Hi, I’m @maplesyrupweb
 - I'm a lifelong learner and student of most things in tech. I'm interesting in web programming, LMS/CMS, audiovisual systems, and automation systems.
 -  Specifically, I like: 
-    * Canvas, Moodle and TalentLMS (LMS)
-    * WordPress (CMS) 
-    * PHP, MySQL, CSS, JavaScript
-    * Automation APIs, Apple shortcuts, Zapier.
-    * Extron and Crestron audio visual devices and Raspberry PI
-
+    * LMS: Canvas and TalentLMS 🎓
+    * CMS: WordPress 🙌
+    * Languages: PHP, MySQL, CSS, JavaScript 👨🏻‍💻 
+    * Framework: Bootstrap 😎
+    * Automation: Automation APIs, Apple shortcuts, Zapier/IFTTT 🤖
+    * Stats and Dashboards 💯
 
 - 📫 Reach me at: maplesyrupweb@gmail.com
 
