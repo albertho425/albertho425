@@ -1,10 +1,10 @@
 # Hi, I’m @maplesyrupweb
 - I'm a lifelong learner and student of most things in tech. I'm interesting in web programming, LMS/CMS, audiovisual systems, and automation systems.
 -  Specifically, I like: 
-    * LMS: Canvas and TalentLMS 🎓
-    * CMS: WordPress 🙌
+    * LMS: ATutor, Canvas and TalentLMS 🎓
+    * CMS: WordPress 🙌 with and without headless 
     * Languages: PHP, MySQL, CSS, JavaScript 👨🏻‍💻 
-    * Framework: Bootstrap 😎
+    * Framework: Bootstrap, Gatsby/Atlas 😎
     * Automation: Automation APIs, Apple shortcuts, Zapier/IFTTT 🤖
     * Stats and Dashboards 💯
 
