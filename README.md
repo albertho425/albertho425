@@ -1,5 +1,5 @@
 # Hi, I’m @maplesyrupweb
-- I'm a lifelong learner and student of most things in tech. I'm interesting in web programming, LMS/CMS, audiovisual systems, and automation systems.
+- I'm a lifelong learner and student of most things in tech. I'm interesting in web programming, LMS/CMS, dashboards, and automation.
 -  Specifically, I like: 
     * LMS: ATutor, Canvas and TalentLMS 🎓
     * CMS: WordPress 🙌 with and without headless 
