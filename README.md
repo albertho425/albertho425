@@ -2,7 +2,7 @@
 - I'm a lifelong learner and student of most things in tech. I'm interesting in web programming, LMS/CMS, stats & dashboards, and technical support.
 -  Specifically, I like: 
     * LMS: ATutor, Canvas and TalentLMS 🎓
-    * CMS: WordPress 🙌 with or without headless 
+    * CMS: WordPress 🙌 and SharePoint
     * Languages: PHP, MySQL, CSS, JavaScript 👨🏻‍💻 
     * Framework: Bootstrap, Gatsby/Atlas 😎
     * Performance and SEO: GT Metrix, Page Speed Insights, and Web Dev's measure tool
