@@ -1,13 +1,13 @@
 # Hi, I’m @MapleSyrupWeb
 - I'm a lifelong learner and student of most things in tech. I'm interesting in web programming, LMS/CMS, stats & dashboards, and technical support.
 -  Specifically, I like: 
-    * LMS: TalentLMS 🎓
+    * E-Learning LearnWorlds, Camtasia, Snagit
     * CMS: WordPress 🙌 and WordPress headless
-    * Languages: PHP, MySQL, CSS, JavaScript 👨🏻‍💻 
+    * UI/UX: Adobe XD
+    * Languages: CSS, JavaScript, PHP, MySQL 👨🏻‍💻 
     * Framework: Bootstrap, Gatsby/Atlas 😎
-    * Performance and SEO: GT Metrix, Page Speed Insights
-    * Technical support for operating systems, network, server, domain and hardware
-    * Stats and Dashboards 💯
+    * IT: Freshworks, NordVPN, Raspberry Pi, RealVNC, Toggl Track, Zapier
+
 
 - 📫 Reach me at: maplesyrupweb@gmail.com
 
