@@ -1,12 +1,15 @@
-# Hi, I’m @MapleSyrupWeb
-- I'm a lifelong learner and student of most things in tech. I'm interesting in web programming, LMS/CMS, stats & dashboards, and technical support.
+# Hi, I’m Albert. 
+
+I'm a lifelong learner and geek. I enjoy levelling up in real life as much as I enjoy levelling up in RPG video games. 
+
 -  Specifically, I like: 
-    * E-Learning LearnWorlds, Camtasia, Snagit
-    * CMS: WordPress 🙌 and WordPress headless
+    * E-Learning: LearnWorlds LMS, Camtasia, Snagit
+    * CMS: WordPress and WordPress headless
     * UI/UX: Adobe XD
-    * Languages: CSS, JavaScript, PHP, MySQL 👨🏻‍💻 
-    * Framework: Bootstrap, Gatsby/Atlas 😎
+    * Languages: CSS, JavaScript, PHP, MySQL, Python 
+    * Framework: Bootstrap, Gatsby/Atlas 
     * IT: Freshworks, NordVPN, Raspberry Pi, RealVNC, Toggl Track, Zapier
+    * Raspberry Pi: Linux scripts and Python scripts
 
 
 - 📫 Reach me at: maplesyrupweb@gmail.com
