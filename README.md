@@ -2,7 +2,8 @@
 
 I'm a lifelong learner and geek. I enjoy levelling up in real life as much as I enjoy levelling up in RPG video games. 
 
--  Specifically, I like: 
+These are some of my favorite tools:
+
     * E-Learning: LearnWorlds LMS, Camtasia, Snagit
     * CMS: WordPress and WordPress headless
     * UI/UX: Adobe XD
