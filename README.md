@@ -2,17 +2,11 @@
 
 I'm a lifelong learner and geek. I enjoy levelling up in real life as much as I enjoy levelling up in RPG video games. 
 
-These are some of my favorite tools:
+I am into e-Learning, CMS, web development, and UI/UX. Visit my [website](https://maplesyrupweb.com/).
 
-- CMS: WordPress and WordPress headless
-- E-Learning: Learn Worlds LMS, Camtasia, Snagit
-- Framework: Bootstrap, Gatsby/Atlas 
-- Information Technology: Freshworks, NordVPN, Raspberry Pi, RealVNC, Toggl Track, Zapier
-- Languages: CSS, JavaScript, PHP, MySQL, Python 
-- Raspberry Pi: Linux scripts and Python scripts
-- UI/UX: Adobe XD
+📫 Reach me at: maplesyrupweb@gmail.com
 
-- 📫 Reach me at: maplesyrupweb@gmail.com
+
 
 ***
 
