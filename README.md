@@ -4,14 +4,13 @@ I'm a lifelong learner and geek. I enjoy levelling up in real life as much as I 
 
 These are some of my favorite tools:
 
-    * E-Learning: LearnWorlds LMS, Camtasia, Snagit
-    * CMS: WordPress and WordPress headless
-    * UI/UX: Adobe XD
-    * Languages: CSS, JavaScript, PHP, MySQL, Python 
-    * Framework: Bootstrap, Gatsby/Atlas 
-    * IT: Freshworks, NordVPN, Raspberry Pi, RealVNC, Toggl Track, Zapier
-    * Raspberry Pi: Linux scripts and Python scripts
-
+- CMS: WordPress and WordPress headless
+- E-Learning: Learn Worlds LMS, Camtasia, Snagit
+- Framework: Bootstrap, Gatsby/Atlas 
+- Information Technology: Freshworks, NordVPN, Raspberry Pi, RealVNC, Toggl Track, Zapier
+- Languages: CSS, JavaScript, PHP, MySQL, Python 
+- Raspberry Pi: Linux scripts and Python scripts
+- UI/UX: Adobe XD
 
 - 📫 Reach me at: maplesyrupweb@gmail.com
 
