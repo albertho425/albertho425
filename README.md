@@ -1,6 +1,6 @@
 # Hi, I’m Albert. 
 
-I'm a lifelong learner and geek. I enjoy levelling up in real life as much as I enjoy levelling up in RPG video games. 
+I'm a lifetime student and geek. I enjoy levelling up in real life as much as I enjoy levelling up in RPG video games. 
 
 I am into web development, UI/UX, Information Technology, and e-Learning. Visit my [website](https://maplesyrupweb.com/).
 
