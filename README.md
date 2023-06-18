@@ -2,15 +2,25 @@
 
 I'm transitioning from IT and e-learning to web development.
 
-Visit my [website](https://maplesyrupweb.com/).
-
-
-
 📫 Reach me at: maplesyrupweb@gmail.com
 
-![Albert's GitHub stats](https://github-readme-stats.vercel.app/api?username=maplesyrupweb&show_icons=true&disable_animations=true&count_private=false&hide_rank=true)
+Visit my [website](https://maplesyrupweb.com/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maplesyrupweb&langs_count=8)](https://github.com/maplesyrupweb/github-readme-stats)
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maplesyrupweb"/>
+
+## Current Tools
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg"/><img height=50 src="https://github.com/maplesyrupweb/fem-dictionary-web-app/assets/73809301/a7b05350-b16b-4f64-a807-dc76a9e0882e"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/wordpress/wordpress-plain.svg"/>
+<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg"/><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gatsby/gatsby-plain.svg"/><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/raspberrypi/raspberrypi-original.svg"/><br><br>
+
+
+## Studying
+
+<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg"/><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg"/><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-plain.svg"/><br><br>
+
+
+
 
 ***
 
@@ -21,4 +31,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<a href="https://www.flaticon.com/free-icons/maple-syrup" title="maple syrup icons">Credit to Flaticon</a>
+
