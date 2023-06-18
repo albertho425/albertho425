@@ -1,12 +1,16 @@
 # Hi, I’m Albert. 
 
-I'm a lifetime student and geek. I enjoy levelling up in real life as much as I enjoy levelling up in RPG video games. 
+I'm transitioning from IT and e-learning to web development.
 
-I am into web development, UI/UX, Information Technology, and e-Learning. Visit my [website](https://maplesyrupweb.com/).
+Visit my [website](https://maplesyrupweb.com/).
+
+
 
 📫 Reach me at: maplesyrupweb@gmail.com
 
+![Albert's GitHub stats](https://github-readme-stats.vercel.app/api?username=maplesyrupweb&show_icons=true&disable_animations=true&count_private=false&hide_rank=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maplesyrupweb&langs_count=8)](https://github.com/maplesyrupweb/github-readme-stats)
 
 ***
 
