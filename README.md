@@ -1,6 +1,13 @@
 # Hi, I’m Albert. 
 
-I'm transitioning from IT and e-learning to web development.
+:smiley: I'm transitioning from IT and e-learning to web development.
+
+:v: I have a work permit in 🇨🇦 and 🇺🇸 
+
+:computer: I'm currently migrating and implementing a website and learning management system. 
+
+:pray: I'm hoping to become an engineer in front end development or technical support.
+
 
 📫 Reach me at: maplesyrupweb@gmail.com
 
@@ -9,10 +16,10 @@ Visit my [website](https://maplesyrupweb.com/)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=maplesyrupweb"/>
 
 ## Current Tools
-[![Current Tools](https://skillicons.dev/icons?i=html,css,js,php,wordpress,xd,bootstrap,cloudflare,github,raspberrypi,vscode)](https://skillicons.dev)<br><br>
+[![Current Tools](https://skillicons.dev/icons?i=cloudflare,html,css,js,php,wordpress,xd,bootstrap,github,raspberrypi)](https://skillicons.dev)<br><br>
 
 ## Studying
-[![Studying](https://skillicons.dev/icons?i=react,tailwind,flutter,gatsby)](https://skillicons.dev)
+[![Studying](https://skillicons.dev/icons?i=react,tailwind,flutter,gatsby,js,php)](https://skillicons.dev)
 
 
 <!---
