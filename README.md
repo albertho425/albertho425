@@ -1,17 +1,17 @@
 # :wave: Hi, I’m Albert 
 
-:smiley: I'm transitioning from IT and e-learning to web development.
+:smiley: I'm transitioning from IT & e-learning to **web development.**
 
 :v: I have a work permit in 🇨🇦 and 🇺🇸 
 
-:computer: I'm currently migrating and implementing a website and learning management system (IT, design, and front end development)
+:computer: I'm currently implemnting a new learning management system and migrating an existing website.
 
-:pray: I'm hoping to become an engineer in front end development or technical support.
+:muscle: I'm hoping to become an engineer in front end development.
 
 
-📫 Reach me at: maplesyrupweb@gmail.com
+:e-mail: [Email](mailto:maplesyrupweb@gmail.com)    :globe_with_meridians: [Website](https://maplesyrupweb.com/)
 
-Visit my [website](https://maplesyrupweb.com/)
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=maplesyrupweb"/>
 
