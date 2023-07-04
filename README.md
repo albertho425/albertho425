@@ -6,7 +6,7 @@
 
 :computer: I'm currently implemnting a new learning management system and migrating an existing website.
 
-:muscle: I'm studying to become an engineer in front-end and then full-stack development.
+:muscle: I'm studying to become an engineer in **front-end** development and then **full-stack** development.
 
 
 :e-mail: [Email](mailto:maplesyrupweb@gmail.com)    :globe_with_meridians: [Website](https://maplesyrupweb.com/)
