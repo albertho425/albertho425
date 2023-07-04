@@ -2,11 +2,11 @@
 
 :smiley: I'm transitioning from IT & e-learning to **web development.**
 
-:v: I have a work permit in 🇨🇦 and 🇺🇸 
+:v: I have a work permit in 🇺🇸 and 🇨🇦  
 
 :computer: I'm currently implemnting a new learning management system and migrating an existing website.
 
-:muscle: I'm hoping to become an engineer in front end development.
+:muscle: I'm studying to become an engineer in front-end and then full-stack development.
 
 
 :e-mail: [Email](mailto:maplesyrupweb@gmail.com)    :globe_with_meridians: [Website](https://maplesyrupweb.com/)
