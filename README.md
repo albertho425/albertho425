@@ -6,7 +6,7 @@
 
 :computer: I'm currently implemnting a new learning management system and migrating an existing website.
 
-:muscle: My favorite tools are CSS/JS/PHP, LearnWorlds LMS, WordPress, and Cloudflare
+:point_down: Scroll down for contact info, current tools, statistics, and public repositories.
 
 
 :e-mail: [Email](mailto:maplesyrupweb@gmail.com)    :globe_with_meridians: [Website](https://maplesyrupweb.com/)
