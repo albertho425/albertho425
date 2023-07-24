@@ -1,12 +1,12 @@
 # :wave: Hi, I’m Albert 
 
-:smiley: I'm transitioning from IT & e-learning to **web development.**
+:smiley: I'm in IT & e-Learning (LMS admin) and am also studying **web development.**
 
 :v: I have a work permit and home in 🇺🇸 and 🇨🇦  
 
 :computer: I'm currently implemnting a new learning management system and migrating an existing website.
 
-:muscle: I'm studying to become an engineer in **front-end** development and then **full-stack** development.
+:muscle: My favorite tools are CSS/JS/PHP, LearnWorlds LMS, WordPress, and Cloudflare
 
 
 :e-mail: [Email](mailto:maplesyrupweb@gmail.com)    :globe_with_meridians: [Website](https://maplesyrupweb.com/)
