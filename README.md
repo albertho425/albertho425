@@ -2,7 +2,7 @@
 
 :smiley: I'm in IT & e-Learning (LMS admin) and am also studying **web development.**
 
-:v: I have a work permits in 🇺🇸 and 🇨🇦  
+:v: I have 🇺🇸🇨🇦 work permits
 
 :computer: I'm currently implemnting a new learning management system and migrating an existing website. 
 
