@@ -2,9 +2,9 @@
 
 :smiley: I'm in IT & e-Learning (LMS admin) and am also studying **web development.**
 
-:v: I have 🇺🇸🇨🇦 work permits
+:v: I have 🇺🇸 and 🇨🇦 work permits
 
-:computer: I'm currently implemnting a new learning management system and migrating an existing website. 
+:computer: I'm currently implemnting a new learning management system, migrating a website, and building *CRUD* web apps
 
 :point_down: Scroll down for contact info, current tools, statistics, and public repositories.
 
