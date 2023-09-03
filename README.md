@@ -2,7 +2,7 @@
 
 :smiley: I'm in IT & e-Learning (LMS admin) and am also studying **web development.**
 
-:v: I have 🇺🇸 and 🇨🇦 work permits. I'm looking for my next full time job.
+:v: I have 🇺🇸 and 🇨🇦 work permits. I'm looking for my next **full time job.**
 
 :computer: I'm currently implemnting a new learning management system, migrating a website, and building *CRUD* web apps
 
