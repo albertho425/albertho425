@@ -9,7 +9,7 @@
 :point_down: Scroll down for contact info, current tools, statistics, and public repositories.
 
 
-:globe_with_meridians: [Resume website](https://albertho.dev) &nbsp; &nbsp; :e-mail: [Email](mailto:albert604news@gmail.com) &nbsp; &nbsp; :globe_with_meridians: [Blog](https://maplesyrupweb.com/) &nbsp; &nbsp;:globe_with_meridians: [Linktree](https://linktr.ee/albertho425)
+:globe_with_meridians: [Resume website](https://albertho.dev) &nbsp; &nbsp; :e-mail: [Email](mailto:albert604news@gmail.com) &nbsp; &nbsp; :globe_with_meridians: [Blog](https://maplesyrupweb.com/) &nbsp; &nbsp;:link: [Linktree](https://linktr.ee/albertho425)
 
 
 
