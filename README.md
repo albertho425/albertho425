@@ -1,6 +1,6 @@
 # :wave: Hi, I’m Albert 
 
-:smiley: I'm in IT & e-Learning (LMS admin) and am also studying **web development.**
+:smiley: I'm in IT and am also studying **web development.**
 
 :v: I have 🇺🇸 and 🇨🇦 work permits. I'm looking for my next **full time job.**
 
@@ -9,7 +9,7 @@
 :point_down: Scroll down for contact info, current tools, statistics, and public repositories.
 
 
-:globe_with_meridians: [Resume website](https://albertho.dev) &nbsp; &nbsp; :e-mail: [Email](mailto:albert604news@gmail.com) &nbsp; &nbsp; :globe_with_meridians: [Blog](https://maplesyrupweb.com/) &nbsp; &nbsp;:link: [Linktree](https://linktr.ee/albertho425)
+:globe_with_meridians: [Website](https://albertho.dev) &nbsp; &nbsp; :e-mail: [Email](mailto:albert604news@gmail.com) &nbsp; &nbsp; :globe_with_meridians: [Blog](https://maplesyrupweb.com/) 
 
 
 
