@@ -22,9 +22,9 @@
 ## Studying
 [![Studying](https://skillicons.dev/icons?i=react,tailwind,flutter,gatsby,js,php)](https://skillicons.dev)
 
-### Spotify Playing
-[<img src=“spotify-git-main-maplesyrupweb.vercel.app” alt=“Now Playing” width=“350” />]
-(https://open.spotify.com/user/albert604news)
+## Spotify Playing
+[![Spotify](spotify-git-main-maplesyrupweb.vercel.app)](https://open.spotify.com/user/albert604news)
+
 
 
 <!---
