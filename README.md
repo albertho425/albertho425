@@ -15,11 +15,16 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=maplesyrupweb"/>
 
+
 ## Current Tools
 [![Current Tools](https://skillicons.dev/icons?i=cloudflare,html,css,js,php,mysql,wordpress,xd,bootstrap,github,raspberrypi)](https://skillicons.dev)<br><br>
 
 ## Studying
 [![Studying](https://skillicons.dev/icons?i=react,tailwind,flutter,gatsby,js,php)](https://skillicons.dev)
+
+### Spotify Playing
+[<img src=“spotify-git-main-maplesyrupweb.vercel.app” alt=“Now Playing” width=“350” />]
+(https://open.spotify.com/user/albert604news)
 
 
 <!---
