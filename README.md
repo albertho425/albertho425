@@ -22,15 +22,4 @@
 ## Studying
 [![Studying](https://skillicons.dev/icons?i=react,tailwind,flutter,gatsby,js,php)](https://skillicons.dev)
 
-## Spotify Playing
-[![Spotify](spotify-git-main-maplesyrupweb.vercel.app)](https://open.spotify.com/user/albert604news)
-
-
-
-<!---
-maplesyrupweb/maplesyrupweb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 
