@@ -1,8 +1,8 @@
 # :wave: Hi, I’m Albert 
 
-:smiley: I'm in IT and am also studying **web development.**
+:smiley: I'm in IT, technical writing, and web development.
 
-:v: I have 🇺🇸 and 🇨🇦 work permits. I'm looking for my next **full time job.**
+:v: 🇺🇸 Washington State resident. I have 🇺🇸 and 🇨🇦 work permits and social security. I'm looking for my next **full time job in the US.**
 
 :computer: I'm currently implemnting a new learning management system, migrating a website, and building *CRUD* web apps
 
