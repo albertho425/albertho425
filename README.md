@@ -2,7 +2,7 @@
 
 :smiley: I'm in IT, technical writing, and web development in Seattle, Washington :us: 
 
-:us: Washington state resident. I have 🇺🇸 and 🇨🇦 work permits. I'm looking for my next **full time job in :us:**
+:us: Washington state resident. I have 🇺🇸 and 🇨🇦 work permits. I'm looking for my next **full time job.**
 
 :computer: I'm currently implemnting a new learning management system, migrating a website, and building *CRUD* web apps
 
