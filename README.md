@@ -1,6 +1,6 @@
 # :wave: Hi, I’m Albert 
 
-:smiley: I'm in IT, technical writing, and web development in Seattle, Washington :us: 
+:smiley: I'm in IT, web development, technical writing, and e-Learning in Seattle, Washington 
 
 :us: Washington state resident. I have 🇺🇸 and 🇨🇦 work permits. I'm looking for my next **full time job.**
 
