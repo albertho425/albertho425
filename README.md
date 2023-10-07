@@ -1,10 +1,10 @@
 # :wave: Hi, I’m Albert 
 
-:smiley: I'm in IT, web development, technical writing, and e-Learning in Seattle, Washington 
+:smiley: I'm in e-Learning, IT, technical writing, and web development in Seattle, Washington.
 
 :us: Washington state resident. I have 🇺🇸 and 🇨🇦 work permits. I'm looking for my next **full time job.**
 
-:computer: I'm currently implemnting a new learning management system, migrating a website, and building *CRUD* web apps
+:computer: I'm currently implemnting a new learning management system, building a new knowledge base, migrating a website, and building *CRUD* web apps
 
 :point_down: Scroll down for contact info, current tools, statistics, and public repositories.
 
