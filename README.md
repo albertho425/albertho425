@@ -1,6 +1,6 @@
 # :wave: Hi, I’m Albert 
 
-:smiley: I'm in IT, web development, e-Learning, and technical writing.
+:smiley: I'm in IT, web development, e-Learning.
 
 :us: Washington state resident. I have 🇺🇸 and 🇨🇦 work permits. I'm looking for my next **full time job.**
 
