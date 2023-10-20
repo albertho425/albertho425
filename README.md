@@ -2,7 +2,7 @@
 
 :smiley: I'm in IT, web development, e-Learning.
 
-:us: Washington state resident. I have 🇺🇸 and 🇨🇦 work permits. I'm looking for my next **full time job.**
+:us: Washington state resident. I'm looking for my next **full time job.**
 
 :computer: I'm currently implemnting a new learning management system, building a new knowledge base, migrating a website, and building *CRUD* web apps
 
@@ -17,7 +17,7 @@
 
 
 ## Current Tools
-[![Current Tools](https://skillicons.dev/icons?i=cloudflare,html,css,js,php,mysql,wordpress,xd,bootstrap,github,raspberrypi)](https://skillicons.dev)<br><br>
+[![Current Tools](https://skillicons.dev/icons?i=cloudflare,html,css,js,php,mysql,wordpress,bootstrap,github,raspberrypi)](https://skillicons.dev)<br><br>
 
 ## Studying
 [![Studying](https://skillicons.dev/icons?i=react,tailwind,flutter,gatsby,js,php)](https://skillicons.dev)
