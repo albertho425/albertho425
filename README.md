@@ -2,7 +2,7 @@
 
 :smiley: I'm in IT, web development, e-Learning.
 
-:us: Washington state resident. I'm looking for my next **full time job.**
+:us: Washington state resident. I'm looking for my next **full and/or part time job.**
 
 :computer: I'm currently implemnting a new learning management system, building a new knowledge base, migrating a website, and building *CRUD* web apps
 
