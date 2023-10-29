@@ -1,6 +1,6 @@
 # :wave: Hi, I’m Albert 
 
-:smiley: I'm a IT specalist, web developer, and e-Learning developer.
+:smiley: I'm an IT specalist, web developer, and e-Learning developer.
 
 :us: Washington state resident. I'm looking for my next **full and/or part time job.**
 
