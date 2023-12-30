@@ -1,16 +1,12 @@
 # :wave: Hi, I’m Albert 
 
-:smiley: I'm an IT specalist, web developer, and e-Learning developer.
+:smiley: I'm a web developer and IT specialist in Bothell, Washington and I'm looking for my next **full and/or part time job.**
 
-:us: Washington state resident. I'm looking for my next **full and/or part time job.**
-
-:computer: I'm currently implemnting a new learning management system, building a new knowledge base, migrating/upgrading a website, building *CRUD* web apps, and implemting new courses.
+:computer: I'm recently became the lead website developer and LMS developer. I'm also building *CRUD* web apps and taking new courses so I can apply them at my work.
 
 :point_down: Scroll down for contact info, current tools, statistics, and public repositories.
 
-:globe_with_meridians: [Website](https://albertho.dev) &nbsp; &nbsp; :e-mail: [Email](mailto:albert604news@gmail.com) &nbsp; &nbsp; :globe_with_meridians: [Blog](https://maplesyrupweb.com/) 
-
-
+:globe_with_meridians: [Website](https://albertho.dev) &nbsp; &nbsp; :video_camera: [Welcome video](https://www.youtube.com/watch?v=juLWBWVJBrA) &nbsp; &nbsp; :e-mail: [Email](mailto:albert604news@gmail.com) &nbsp; &nbsp; :globe_with_meridians: [Blog](https://maplesyrupweb.com/) 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=maplesyrupweb"/>
 
