@@ -6,7 +6,7 @@
 
 :point_down: Scroll down for contact info, current tools, statistics, and public repositories.
 
-:globe_with_meridians: [Website](https://albertho.dev) &nbsp; &nbsp; :video_camera: [Welcome video](https://www.youtube.com/watch?v=juLWBWVJBrA) &nbsp; &nbsp; :e-mail: [Email](mailto:albert604news@gmail.com) &nbsp; &nbsp; :globe_with_meridians: [Blog](https://maplesyrupweb.com/) 
+:globe_with_meridians: [Website](https://albertho.dev) &nbsp; &nbsp; :video_camera: [Welcome video](https://www.youtube.com/watch?v=juLWBWVJBrA) &nbsp; &nbsp; :e-mail: [Email](mailto:albert604news@gmail.com) &nbsp; &nbsp;
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=maplesyrupweb"/>
 
