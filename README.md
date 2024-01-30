@@ -1,10 +1,10 @@
 # :wave: Hi, I’m Albert 
 
-:smiley: I'm a web developer and IT specialist in Bothell, Washington and I'm looking for my next **full and/or part time job.**
+:smiley: I'm a web developer based in Seattle, WA.
 
 :computer: I'm recently became the lead website and LMS developer at my current job. I'm also building *CRUD* web apps and taking new courses so I can apply them at my work.
 
-:computer: After working more than a decade in IT, I began focusing on web development since 2020.
+:computer: After working more than a decade in **Information Technology**, I moved to **Web Development** in **2020**.
 
 :point_down: Scroll down for contact info, current tools, statistics, and public repositories.
 
