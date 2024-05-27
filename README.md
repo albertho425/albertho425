@@ -14,7 +14,7 @@
 
 
 ## Current Tools
-[![Current Tools](https://skillicons.dev/icons?i=cloudflare,html,css,js,php,mysql,wordpress,bootstrap,github,raspberrypi)](https://skillicons.dev)<br><br>
+[![Current Tools](https://skillicons.dev/icons?i=cloudflare,html,css,js,php,mysql,wordpress,drupal,bootstrap,github,raspberrypi)](https://skillicons.dev)<br><br>
 
 ## Studying
 [![Studying](https://skillicons.dev/icons?i=react,tailwind,flutter,gatsby,php,python)](https://skillicons.dev)
