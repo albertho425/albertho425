@@ -13,7 +13,3 @@
 ## Current Tools
 [![Current Tools](https://skillicons.dev/icons?i=cloudflare,docker,html,css,js,php,mysql,wordpress,bootstrap,github,bitbucket,apple,raspberrypi)](https://skillicons.dev)<br><br>
 
-## Studying
-[![Studying](https://skillicons.dev/icons?i=react,tailwind,flutter,gatsby,php,python)](https://skillicons.dev)
-
-
