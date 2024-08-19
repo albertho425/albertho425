@@ -4,7 +4,7 @@
 
 :computer: After working more than a decade in **IT and instructional design**, I moved to **Web Development** in **2020**.
 
-📚 I'm learning to become a good Drupal developer, a better WordPress developer, and a better programmer.
+📚 I'm learning to become a good Drupal developer, a better WordPress developer, and a better web designer and programmer.
 
 :globe_with_meridians: [Website](https://albertho.dev)
 
