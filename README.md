@@ -8,7 +8,7 @@
 
 :globe_with_meridians: [Website](https://albertho.dev)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=albertho206&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=albertho425&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Current Tools
 [![Current Tools](https://skillicons.dev/icons?i=cloudflare,docker,html,css,js,php,mysql,wordpress,bootstrap,github,bitbucket,apple,raspberrypi)](https://skillicons.dev)<br><br>
